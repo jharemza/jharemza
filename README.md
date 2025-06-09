@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I’m Jeremiah Haremza 👋
+
+I'm a backend-focused data professional specializing in API integrations, automation, and consulting-oriented data workflows. 
+Currently seeking roles where I can drive impact through technical implementation and strategic problem-solving.
+
+🔧 See my pinned projects below for examples of my work.
 
 <!--
 **jharemza/jharemza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
