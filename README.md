@@ -12,22 +12,22 @@ My projects emphasize reliability, modularity, and real-world application.
 ## 📌 Pinned Projects
 Here are a few representative projects demonstrating backend integration, automation, data pipelines, and consulting-focused tooling:
 
-[workday_scraper](https://github.com/jharemza/workday_scraper)
+- [workday_scraper](https://github.com/jharemza/workday_scraper)
 Python script that scrapes job listings from Workday-hosted portals and logs them into Notion databases. Features deduplication, structured logging, and modular scraping logic — ideal for API automation and personal job search optimization.
 
-[news_agg](https://github.com/jharemza/news_agg)
+- [news_agg](https://github.com/jharemza/news_agg)
 News aggregation tool that collects and processes articles from multiple sources (RSS, APIs), with normalization and output formatting. Highlights backend ingestion, scheduling, and extensibility.
 
-[SQLAlchemy_and_sqlite](https://github.com/jharemza/SQLAlchemy_and_sqlite)
+- [SQLAlchemy_and_sqlite](https://github.com/jharemza/SQLAlchemy_and_sqlite)
 Demonstrates ORM modeling, schema design, and data interaction using SQLAlchemy with SQLite. Emphasizes core RDBMS concepts and programmatic query design — aligned with Postgres-focused work.
 
-[glassdoor_review_analysis](https://github.com/jharemza/glassdoor_review_analysis)
+- [glassdoor_review_analysis](https://github.com/jharemza/glassdoor_review_analysis)
 End-to-end pipeline for scraping, cleaning, and analyzing Glassdoor company reviews. Includes text normalization, sentiment scoring, and reporting — a strong example of technical analysis and data transformation.
 
-[excel-text-differ](https://github.com/jharemza/excel-text-differ)
+- [excel-text-differ](https://github.com/jharemza/excel-text-differ)
 A browser-based tool for comparing columns of text from Excel files using a character-level diff algorithm. Built with SheetJS and Diff Match Patch; demonstrates frontend logic, UX clarity, and integration of third-party libraries.
 
-[jharemza.github.io](https://github.com/jharemza/jharemza.github.io)
+- [jharemza.github.io](https://github.com/jharemza/jharemza.github.io)
 My personal portfolio site, built with Jekyll and the Chirpy theme. Includes blog posts, project documentation, and technical writing relevant to backend and data workflows.
 
 <!--
