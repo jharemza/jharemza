@@ -1,7 +1,11 @@
 # Hi, I’m Jeremiah Haremza 👋
 
-I'm a backend-focused data professional specializing in API integrations, automation, and consulting-oriented data workflows. 
-Currently seeking roles where I can drive impact through technical implementation and strategic problem-solving.
+I'm a data professional specializing in backend automation, API integration, and database-driven solutions.  
+I build tools that connect, analyze, and automate systems — often with Python, SQL, and Postgres.  
+
+I'm equally fluent in explaining technical decisions to non-technical stakeholders.
+
+My projects emphasize reliability, modularity, and real-world application.
 
 🔧 See my pinned projects below for examples of my work.
 
