@@ -38,16 +38,18 @@ Here are a few representative projects demonstrating backend integration, automa
 - **Automation & Scripting**: Requests, Selenium, Notion API, GitHub CLI
 - **Tools & CI/CD**: Git, GitHub Actions, VS Code, Jupyter, Pandas, GitHub Pages
 - **Cloud & Platform**: GCP, BigQuery, Cloudflare
-- **Dev Environment**: VS Code, Jupyter, WSL2, Git, GitHub Pages
+- **Dev Environment**: WSL2, local Linux shells, dotfile-managed config
 
 ## 📬 Contact & Links
 
 [![Website](https://img.shields.io/badge/-jeremiahharemza.com-000?&logo=google-chrome&logoColor=white)](https://jeremiahharemza.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiahharemza)
 [![Resume](https://img.shields.io/badge/-Resume-4B5563?style=flat&logo=read-the-docs&logoColor=white)](https://jeremiahharemza.com/resume.pdf)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jeremiah.haremza@gmail.com)
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jharemza&theme=dark&hide_title=true)](https://git.io/streak-stats)
-[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharemza&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jharemza&theme=dark&hide_title=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jharemza&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub stats" />
+</p>
