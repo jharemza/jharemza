@@ -49,7 +49,5 @@ Here are a few representative projects demonstrating backend integration, automa
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jharemza&theme=dark&hide_title=true" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jharemza&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jharemza&theme=dark&hide_title=true)](https://git.io/streak-stats)
+[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jharemza&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
