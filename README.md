@@ -7,7 +7,20 @@ I'm equally fluent in explaining technical decisions to non-technical stakeholde
 
 My projects emphasize reliability, modularity, and real-world application.
 
-🔧 See my pinned projects below for examples of my work.
+🔧 See my projects below for examples of my work.
+
+## 🌟 Featured Project
+
+### [`workday-scraper-api`](https://github.com/jharemza/workday-scraper-api)
+A Flask-based REST API for retrieving job postings scraped from Workday-hosted career sites. Supports scalable multi-institution configurations, SQLite database integration, and OpenAPI docs for easy consumption.
+
+- 🔍 Built for job aggregation and filtering
+- ⚙️ Modular architecture with clean endpoint structure in JSON format
+- 📄 Auto-generated Swagger documentation
+- 🛠️ SQLite backend
+
+[View Repository →](https://github.com/jharemza/workday-scraper-api)
+
 
 ## 📌 Pinned Projects
 Here are a few representative projects demonstrating backend integration, automation, data pipelines, and consulting-focused tooling:
