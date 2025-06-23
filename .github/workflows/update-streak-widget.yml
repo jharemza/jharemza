@@ -24,7 +24,7 @@ jobs:
           mkdir -p assets
           curl -s -H "User-Agent: Mozilla/5.0" \
             -w "%{http_code}" -o temp_streak.svg \
-            "https://github-readme-streak-stats.herokuapp.com?user=${{ github.repository_owner }}&theme=dark&hide_title=true&hide_border=true&token=${{ secrets.GH_STATS_TOKEN }}" > status.txt
+            "https://github-readme-streak-stats.herokuapp.com?user=${{ github.repository_owner }}&theme=dark&hide_title=true&token=${{ secrets.GH_STATS_TOKEN }}" > status.txt
 
           code=$(cat status.txt)
           if [ "$code" = "200" ]; then
